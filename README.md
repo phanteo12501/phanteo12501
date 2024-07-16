@@ -31,6 +31,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ### :fire: My Stats :
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=phanteo12501&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanteo12501&show_icons=true&theme=radical)
+</div>
