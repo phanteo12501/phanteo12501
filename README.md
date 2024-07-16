@@ -1,4 +1,4 @@
-<div id="header" align="center">
+ <div id="header" align="center">
   <img src="https://media.giphy.com/media/ce1GYoBZBMbkO9SUjq/giphy.gif" width="100"/>
 </div>
 <div id="header" align="center">
@@ -32,7 +32,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=phanteo12501&theme=dark&background=000000)](https://git.io/streak-stats)
-<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanteo12501&show_icons=true&theme=radical)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=phanteo12501&theme=dark&background=000000" alt="GitHub Streak"/>
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=phanteo12501&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
 </div>
+
