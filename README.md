@@ -32,9 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=phanteo12501&theme=dark&background=000000" alt="GitHub Streak"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=phanteo12501&theme=dark&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=phanteo12501&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
 </div>
